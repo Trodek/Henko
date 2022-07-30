@@ -1,0 +1,19 @@
+{
+    "name": "Trodek.Tool.Henko.Editor.Tests",
+    "references": [
+        "Trodek.Tool.Henko.Runtime",
+        "Trodek.Tool.Henko.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

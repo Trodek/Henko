@@ -1,0 +1,13 @@
+{
+    "name": "Trodek.Tool.Henko.Editor",
+    "references": [
+        "Trodek.Tool.Henko.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

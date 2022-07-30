@@ -1,0 +1,19 @@
+{
+    "name": "com.trodek.tool.henko",
+    "version": "0.1.0",
+    "displayName": "Henko - Scene Managment",
+    "description": "Scene Management tool for Unity",
+    "unity": "2022.1",
+   "keywords": [
+      "henko",
+      "scene",
+      "management",
+      "trodek",
+      "tool"
+    ],
+    "author": {
+      "name": "trodek",
+      "url": "https://github.com/Trodek"
+    }
+  }
+  
